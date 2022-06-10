@@ -8,6 +8,9 @@ To run:
 
 Open terminal,
 
+Make sure you have npm or yarn installed.
+If you haven't installed React Native expo CLI on your machine, enter `yarn global add expo-cli`
+
 First of all, you need to `yarn` to install all the dependencies.
 Then, `yarn web` or `expo start`(press w for web once loaded) to run the app.
 
